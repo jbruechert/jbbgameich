@@ -1,16 +1,19 @@
-### Hi there 👋
+### Moin Leude there 👋
 
-<!--
-**JBBgameich/jbbgameich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You found the profile of a KDE Developer, currently working on 
+* [🗨️ Kaidan](https://invent.kde.org/network/kaidan)
+* [📱 Plasma Mobile](https://invent.kde.org/plasma-mobile/)
+* [📲 Debian PM](https://gitlab.com/debian-pm/)
 
-Here are some ideas to get you started:
+I'm helping out at many other projects, for example
+* [📦 flathub](https://github.com/flathub)
+* [🏫 OpenBoard](https://github.com/openboard-org/openboard)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the past (and sometimes still today) I worked on some of the following topics:
+* 👾 Minetest Mods & Texture packs
+* Halium
+
+Programming languages I expecially like:
+ * C++ (even more with every new version of the standard)
+ * Rust
+ * QML (in the hope it will soon be a compiled language)
