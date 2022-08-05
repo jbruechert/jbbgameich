@@ -1,5 +1,3 @@
-### Moin Leude there 👋
-
 You found the profile of a KDE Developer, currently working on 
 * [🗨️ Kaidan](https://invent.kde.org/network/kaidan)
 * [📱 Plasma Mobile](https://invent.kde.org/plasma-mobile/)
@@ -14,6 +12,7 @@ In the past (and sometimes still today) I worked on some of the following topics
 * Halium
 
 Programming languages I expecially like:
- * C++ (even more with every new version of the standard)
+ * C++ (more with every new version of the standard)
  * Rust
+ * Haskell
  * QML (in the hope it will soon be a compiled language)
