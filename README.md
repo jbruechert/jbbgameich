@@ -11,7 +11,7 @@ In the past (and sometimes still today) I worked on some of the following topics
 * 👾 Minetest Mods & Texture packs
 * Halium
 
-Programming languages I expecially like:
+Programming languages I especially like:
  * C++ (more with every new version of the standard)
  * Rust
  * Haskell
